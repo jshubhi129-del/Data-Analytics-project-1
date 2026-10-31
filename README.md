@@ -50,23 +50,6 @@ DA-project1/
 └── README.md
 ```
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnimeshSharma0425/DA-project1.git
-   cd DA-project1
-   ```
-2. Install the dependencies:
-   ```bash
-   pip install pandas numpy
-   ```
-3. Run the script:
-   ```bash
-   python project1.py
-   ```
-   Add `print(df)` at the end of the script to see the cleaned DataFrame, or paste the code into a Jupyter notebook (as in `project2.py`) to display it directly.
-
 ## What You'll Learn
 
 - Handling missing values with the mean and with placeholder values
